@@ -11,7 +11,7 @@ This Repository deals with the basic concepts of
 ## Prerequisite
 Basic modules that are required are listed below 
 ```python
- sudo pip intatll sklearn, numpy, pickle 
+ sudo pip install sklearn numpy pickle-mixin 
  ```
  
  ## Description
